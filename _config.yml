@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meet Dr. Simanta Lahkar"
+title                    : "Dr. Simanta Lahkar / Homepage"
 title_separator          : "-"
 name                     : &name "Simanta Lahkar"
 description              : &description "Early Career Fellow at IIT Gandhinagar"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Simanta Lahkar"
   avatar           : "profile.png"
-  bio              : "Early Career Fellow"
+  bio              : "Early Career Fellow at IITGN"
   location         : "Gandhinagar, GUJ, India"
-  employer         : "Indian Institute of Technology - Gandhinagar"
+  employer         : "Indian Institute of Technology - GN"
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=xveNT3cAAAAJ&hl=en&oi=ao"
   email            : "simantalahkar@hotmail.com"
