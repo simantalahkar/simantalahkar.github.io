@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Simanta Lahkar / Homepage"
+title                    : "Simanta Lahkar / Homepage"
 title_separator          : "-"
 name                     : &name "Simanta Lahkar"
-description              : &description "Early Career Fellow at IIT Gandhinagar"
+description              : &description "Early Career Fellow at IITGN"
 url                      : https://simantalahkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simantalahkar.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simanta Lahkar"
+  name             : "Dr. Simanta Lahkar"
   avatar           : "profile.png"
   bio              : "Early Career Fellow at IITGN"
   location         : "Gandhinagar, GUJ, India"
