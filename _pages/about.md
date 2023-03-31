@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This is Dr. Simanta Lahkar's home on the web!
-Lorem ipsum.
