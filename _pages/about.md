@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home on the web!
+This is my home on the web!
 
 I am an Early Career Fellow at Indian Institute of Technology – Gandhinagar, India. I completed my PhD in Materials Science and Engineering from Shanghai Jiao Tong University, China, in 2022. I received my M.Sc. (Physics) and B.E. (Mechanical Engineering) from BITS Pilani, India. I am proficient in computational modeling and simulations, as well as experimental materials characterization and data analysis techniques. I like to use these tools to solve interesting scientific, engineering, and various purely mathematical problems. 
 
