@@ -7,11 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "Meet Dr. Simanta / Home"
-=======
 title                    : "Meet Dr. Simanta Lahkar"
->>>>>>> fc29c86 (changed personal details)
 title_separator          : "-"
 name                     : &name "Simanta Lahkar"
 description              : &description "Early Career Fellow at IIT Gandhinagar"
