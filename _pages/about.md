@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Simanta's Portfolio Page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
