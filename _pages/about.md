@@ -11,7 +11,7 @@ redirect_from:
 
 I am an Early Career Fellow at the Indian Institute of Technology – Gandhinagar, India. 
 I completed my Ph.D. in Materials Science and Engineering from Shanghai Jiao Tong University, China, in 2022. 
-I received my M.Sc. (Physics) and B.E. (Mechanical Engineering) from BITS Pilani, India, in 2018. 
+I received my M.Sc. (Physics) and B.E. (Mechanical Engineering) from BITS Pilani, India, in 2018 through a Dual Degree program. 
 
 I have over 5 years of experience in computational modeling and simulations, as well as a wide range of experimental materials characterization and data analysis techniques. I like to use these tools to research and solve multifaceted mathematical, scientific, and engineering problems. 
 
