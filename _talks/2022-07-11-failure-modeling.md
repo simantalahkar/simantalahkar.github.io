@@ -2,7 +2,7 @@
 title: "Tilt-dependent EELS characterization of hexagonal boron nitride"
 collection: talks
 type: "Conference Paper Presentation"
-permalink: /talks/EELS-for-Topology
+permalink: /talks/failure-model
 venue: "IXth International Conference on Engineering Failure and Analysis (ICEFA 2022) by Elsevier"
 date: 2022-07-11
 location: "Web Conference"
