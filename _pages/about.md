@@ -17,4 +17,4 @@ My expertise lies in modeling, simulations, and various characterization and dat
 
 The [Research](https://simantalahkar.github.io/research/) page on this site contains summaries of some of my selected research work. You may find details of my conference talks and seminars on the [Talks](https://simantalahkar.github.io/talks/) page. I have also shared a list of my peer-reviewed [Publications](https://simantalahkar.github.io/publications/), and my current [Contact](https://simantalahkar.github.io/contact/) details on this website. 
 
-I love to keep learning new concepts and implementing new ideas in codes. I share some of the codes from my projects on my [GitHub](https://github.com/simantalahkar).
+I love to keep learning new concepts and implementing new ideas in codes. I share some of the codes from my projects every now and then on my [GitHub](https://github.com/simantalahkar).
