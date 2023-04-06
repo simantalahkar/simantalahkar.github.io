@@ -1,13 +1,13 @@
 ---
-title: "Research project 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Anisotropic Failure Criteria"
+excerpt: "Anisotropic failure models were developed using new framework useful for accurate error estimation versus test data <br/><img src='/images/research-1.png'>"
 collection: research
 ---
 
-This is an item in your research. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+An equivalent-stress-based quantification technique was developed to determine the accuracy of prediction of a 6D failure model surface versus failure simulation data in both absolute and relative terms, significantly improving the ease and objectivity of anisotropic strength criteria optimization.
 
-Heading 1
+Equivalent stress framework
 ======
-![imageName](/images/500x300.png)
+![imageName](/images/research-1.1.png)
 
 Continue text leaving one line below the image
