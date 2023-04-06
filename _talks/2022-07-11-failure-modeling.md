@@ -1,5 +1,5 @@
 ---
-title: "Tilt-dependent EELS characterization of hexagonal boron nitride"
+title: "Assessment of strength criteria for multiscale modeling of multilayer two dimensional materials"
 collection: talks
 type: "Conference Paper Presentation"
 permalink: /talks/failure-model
