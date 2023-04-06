@@ -8,3 +8,6 @@ This is an item in your research. It can be have images or nice text. If you nam
 
 Heading 1
 ======
+![imageName](/images/500x300.png)
+
+Continue text leaving one line below the image
