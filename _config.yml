@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simanta Lahkar / Portfolio"
+title                    : "Dr. Simanta Lahkar - Homepage"
 title_separator          : "-"
 name                     : &name "Simanta Lahkar"
 description              : &description "Early Career Fellow at IITGN"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Simanta Lahkar"
+  name             : "Simanta Lahkar"
   avatar           : "profile.png"
   bio              : "Early Career Fellow at IITGN"
   location         : "Gandhinagar, GUJ, India"
-  employer         : "Indian Institute of Technology - GN"
+  employer         : #"Indian Institute of Technology - GN"
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=xveNT3cAAAAJ&hl=en&oi=ao"
-  email            : "simantalahkar@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Simanta-Lahkar?ev=hdr_xprf"
+  email            : #"simantalahkar@hotmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Simanta-Lahkar?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :

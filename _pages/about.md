@@ -15,8 +15,6 @@ Through a Dual Degree program, I received my M.Sc. (Physics) and B.E. (Mechanica
 
 My expertise lies in modeling, simulations, and various characterization and data analysis techniques. I like to use these tools to research and solve different mathematical, scientific, and engineering problems that are often multi-disciplinary. 
 
-The 'Research' page on this site contains summaries of some of my selected research work. You may also find details of my conference talks and seminars on the 'Talks' page. I have also shared a list of my peer-reviewed 'Publications', and my current 'Contact' details. 
+The [Research](https://simantalahkar.github.io/research/) page on this site contains summaries of some of my selected research work. You may also find details of my conference talks and seminars on the [Talks](https://simantalahkar.github.io/talks/) page. I have also shared a list of my peer-reviewed [Publications](https://simantalahkar.github.io/publications/), and my current [Contact](https://simantalahkar.github.io/contact/) details. 
 
 I love to keep learning new concepts and implementing new ideas in codes. I share some of the codes from my projects on my [GitHub](https://github.com/simantalahkar?tab=repositories).
-
-My current research thrust lies in combining computational and data-driven approaches to understand the failure and heat transport behavior in defect-engineered materials and hierarchical composites.
