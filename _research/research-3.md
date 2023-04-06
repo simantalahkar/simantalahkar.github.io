@@ -1,6 +1,6 @@
 ---
-title: "Anisotropic Failure Criteria"
-excerpt: "Anisotropic failure models were developed using new framework useful for accurate error estimation versus test data <br/><img src='/images/research-1.png'>"
+title: "Electron energy loss spectrum analysis"
+excerpt: "Relativistic scattering based quantitative analysis technique of EELS data for tilt prediction in hBN <br/><img src='/images/research-3.png'>"
 collection: research
 ---
 
@@ -8,6 +8,6 @@ An equivalent-stress-based quantification technique was developed to determine t
 
 Equivalent stress framework
 ------
-![imageName](/images/research-1.1.png)
+![imageName](/images/research-3.1.png)
 
 Continue text leaving one line below the image

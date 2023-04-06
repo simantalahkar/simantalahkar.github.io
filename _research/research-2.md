@@ -1,6 +1,6 @@
 ---
 title: "Distortion-induced Strengthening and Toughening"
-excerpt: "Novel mechanism of simultaneous strengthening and toughening in hBN was discovered using atomistic modeling and TEM characterization <br/><img src='/images/research-2.jpg'>"
+excerpt: "Simultaneous strengthening and toughening mechanism in hBN was discovered using atomistic modeling and TEM characterization <br/><img src='/images/research-2.jpg'>"
 collection: research
 ---
 
