@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find all my journal articles and conference proceedings on <u><a href="{{https://scholar.google.com/citations?user=xveNT3cAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
+You can find all my journal articles and conference proceedings on [my Google Scholar profile](https://scholar.google.com/citations?user=xveNT3cAAAAJ&hl=en)
 
 {% include base_path %}
 
