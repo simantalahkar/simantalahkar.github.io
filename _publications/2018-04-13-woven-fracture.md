@@ -1,0 +1,14 @@
+---
+title: "Strength nature of two-dimensional woven nanofabrics under biaxial tension"
+collection: publications
+permalink: /publication/2018-04-13-woven-fracture
+excerpt: "Recommended citation: Li, Y., Lahkar, S., Wei, Q., Qiao, P. and Ye, H., 2019. Strength nature of two-dimensional woven nanofabrics under biaxial tension. International Journal of Damage Mechanics, 28(3), pp.367-379. <br/>DOI: https://doi.org/10.1177/1056789518769343"
+venue: "International Journal of Damage Mechanics"
+date: 2018-04-13
+---
+
+<a href="https://doi.org/10.1177/1056789518769343">Find the full article here</a>. I would also be happy to send a copy upon request.
+
+**Abstract**: Woven nanostructures have been acknowledged as a platform for solar cells, supercapacitors, and sensors, making them especially of interest in the fields of materials sciences, nanotechnology, and renewable energy. By employing molecular dynamics simulations, the mechanical properties of two-dimensional woven nanofabrics under biaxial tension are evaluated. Two-dimensional woven nanostructures composed of graphene and graphyne nanoribbons are examined. Dynamic failure process of both graphene woven nanofabric and graphyne woven nanofabric with the same woven unit cell initiates at the edge of interlaced ribbons accompanied by the formation of cracks near the crossover location of yarns. Further stress analysis reveals that such failure mode is attributed to the compression between two overlaced ribbons and consequently their deformation under biaxial tension, which is sensitive to the lattice structure of nanoribbon as well as the density of yarns in fabric. Systemic comparisons between nanofabrics with different yarn width and interval show that the strength of nanofabric can be effectively controlled by tuning the space interval between nanoribbons. For nanofabrics with fixed large gap spacing, the strength of fabric does not change with the ribbon width, while the strength of nanofabric with small gap spacing decreases anomalously with the increase in yarn density. Such fabric strength dependency on gap spacing is the result of the stress concentration caused by the interlace compression. The outcomes of simulation suggest that the compacted arrangement of yarns in carbon woven nanofabric structures should be avoided to achieve high strength performance.
+
+**Recommended citation**: Li, Y., Lahkar, S., Wei, Q., Qiao, P. and Ye, H., 2019. Strength nature of two-dimensional woven nanofabrics under biaxial tension. International Journal of Damage Mechanics, 28(3), pp.367-379. https://doi.org/10.1177/1056789518769343

@@ -1,0 +1,14 @@
+---
+title: "Atomistically calibrated Tsai-Wu criterion for orthotropic layered 2D materials and interpreting accuracy - A study on failure of hBN"
+collection: publications
+permalink: /publication/2022-05-05-atomistic-calibration
+excerpt: "_Featured on Journal Front Cover_ <br/><br/>Recommended citation: Lahkar, S., & Reddy, K. M., 2022, Atomistically calibrated Tsai-Wu criterion for orthotropic layered 2D materials and interpreting accuracy-A study on failure of hBN. Mechanics of Materials, 170, 104345. <br/>DOI: https://doi.org/10.1016/j.mechmat.2022.104345"
+venue: "Mechanics of Materials"
+date: 2022-05-05
+---
+
+<a href="https://doi.org/10.1016/j.mechmat.2022.104345">Find the full article here</a>. I would also be happy to send a copy upon request.
+
+**Abstract**: The calibration, application and interpretation of an optimized quadratic failure criterion for generally-orthotropic two-dimensional (2D) layered materials, based on the Tsai-Wu strength theory, in order to describe the anisotropic failure behavior of multilayer hexagonal boron nitride (hBN) is presented in this study. A systematic approach to calibrate the strength parameters of the general theory in the full stress-space based on selected atomistic failure simulation data is illustrated, which resulted in an optimized failure criterion describing a closed failure surface for hBN. Several parameters to quantitatively estimate the accuracy of any quadratic failure function have been derived, which helped to compare the errors in the prediction of the optimized criterion against other common multiaxial strength theories. The optimized failure function was also used to analyze the failure of hBN in arbitrary orientations from atomistic simulations of tensile and shear tests. The comparative study between several failure results using the optimized criterion revealed significant strengthening of hBN caused by ripples formed during deformation. The strength predictions from the optimized failure criterion are found to agree well with the atomistic failure data for hBN deformed in both principal axes as well as asymmetric orientations.
+
+**Recommended citation**: Lahkar, S., & Reddy, K. M. (2022). Atomistically calibrated Tsai-Wu criterion for orthotropic layered 2D materials and interpreting accuracy-A study on failure of hBN. Mechanics of Materials, 170, 104345. https://doi.org/10.1016/j.mechmat.2022.104345
