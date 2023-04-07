@@ -3,7 +3,7 @@ title: "Atomistic Simulation of Mixed Mode Fracture in Vitreous Silica"
 collection: publications
 permalink: /publication/2017-11-03-vitreous-modeling
 excerpt: "Lahkar, S., Ghosal, S. and Singh, G., 2017, November. Atomistic simulation of mixed mode fracture in vitreous silica. In ASME International Mechanical Engineering Congress and Exposition (Vol. 58448, p. V009T12A042). American Society of Mechanical Engineers. <br/>DOI: https://doi.org/10.1115/imece2017-71321"
-venue: "ASME International Mechanical Engineering Congress and Exposition 2017 Proceedings"
+venue: "ASME International Mechanical Engineering Congress and Exposition Proceedings"
 date: 2017-11-03
 ---
 
