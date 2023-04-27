@@ -14,8 +14,9 @@ This course is targeted towards students and researchers from the following fiel
 
 ### Day-wise Course Plan
 
-| Day # | Learning Objectives                                                             |
+| Day # | Learning Objectives                                                      |
 | ----- | ------------------------------------------------------------ |
-| 1   | * Description of the item in the list <br>* description in the second line                      |
-| 2   | Description of the item in the list                          |
+| 1   | Introduction to machine learning + how neural networks (NN) learn? <br>Survey + setting up programming environment.    |
+| 2   | The case for non-linearity, activation, forward propagation + NN as 'theoretically' universal function approximator. <br>Data types and functions in python.    |
+| 3   | Description of the item in the list                          |
 | 3   | Description of the item in the list                          |
