@@ -19,9 +19,12 @@ This course is targeted towards students and researchers from the following fiel
 | 1   | Introduction to machine learning + how neural networks (NN) learn? <br>Survey + setting up programming environment.    |
 | 2   | The case for non-linearity, activation, forward propagation + NN as 'theoretically' universal function approximator. <br>Data types and functions in python.    |
 | 3   | Dealing with complexity + Case: Predicting path of crack propagation in graphene.<br>Python fundamentals: objects and functions, collections. |
-| 4   | Cost function, gradient descent, back propagation.
-<br>More on python: iterators, loops, conditionals. |
-| 5   | Deep dive into data, training and validation, activation function selection + more on optimizers.<br>
-Numpy splicing, comprehension, masking techniques. |
-| 6   | Batch vs. mini-batch vs. stochastic gradient descent + vectorized implementation of NN.
-<br>More python modules: pandas,  matplotlib. |
+| 4   | Cost function, gradient descent, back propagation.<br>More on python: iterators, loops, conditionals. |
+| 5   | Deep dive into data, training and validation, activation function selection + more on optimizers.<br>Numpy splicing, comprehension, masking techniques. |
+| 6   | Batch vs. mini-batch vs. stochastic gradient descent + vectorized implementation of NN.<br>More python modules: pandas,  matplotlib. |
+| 7   | First NN model using tensorflow: deep dive into data. |
+| 8   | First NN model using tensorflow: training and visualization.
+Bias and variance. |
+| 9   | Understanding regularization.<br>Handling bias and variance. |
+| 9   | Understanding regularization.
+<br>Handling bias and variance. |
