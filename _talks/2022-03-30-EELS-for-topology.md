@@ -8,6 +8,6 @@ date: 2022-03-30
 location: "Web Conference"
 ---
 
-[The talk's recording can be found here](https://dx.doi.org/10.12351/ks.2203.1044)
+[The presentation slides can be found here](http://dx.doi.org/10.13140/RG.2.2.21688.21765)
 
 Oral presentation in ICFM22 organized by Advanced Materials Alliance of CAST members Societies (AMAC) and Shanghai University. A robust quantitative analysis method for calculating peak intensities of core-loss EELS spectrum of hBN, based on theoretical framework, has been introduced and discussed in this presentation.
