@@ -12,4 +12,4 @@ location: "Web Conference"
 
 This talk covered a strategy to optimize the general Tsai-Wu failure criterion for orthotropic materials in 3D by using 9+3 multiaxial failure test results, and to quantitatively calculate the error in the prediction of any failure criterion in full 6D stress space based on available failure test data. 
 
-(Received the Best Oral Presentation award in the conference for this talk.)
+_Received the Best Oral Presentation award for this talk_
