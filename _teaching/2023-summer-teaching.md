@@ -3,7 +3,7 @@ title: "Deep Learning for Mechanical, Molecular and Materials Engineering with h
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-summer-teaching
-venue: "Indian Institute of Technology - Gandhinagar, Discipline of Materials Engineering"
+venue: "Indian Institute of Technology - Gandhinagar, Materials Engineering"
 date: 2023-05-01
 location: "Gandhinagar, India"
 ---
@@ -16,7 +16,6 @@ This course is targeted towards students and researchers from the following fiel
 
 | Day # | Learning Objectives                                                             |
 | ----- | ------------------------------------------------------------ |
-| 1   | Description of the item in the list    
- description in the second line                      |
+| 1   | Description of the item in the list <br>description in the second line                      |
 | 2   | Description of the item in the list                          |
 | 3   | Description of the item in the list                          |
