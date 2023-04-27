@@ -26,3 +26,8 @@ This course is targeted towards students and researchers from the following fiel
 | 8   | First NN model using tensorflow: training and visualization.<br>Bias and variance. |
 | 9   | Understanding regularization.<br>Handling bias and variance. |
 | 10   | Introduction to deepchem, data featurization, SMILES, molecular fingerprints.<br>Working with molecular data. |
+| 11   | Convolution: from Math to incredibly effective tool in NN. <br>Developing a solubility prediction model. |
+| 12   | Molecular graph convolution.<br>Convolution NN model.   |
+| 13   | Advanced model training, hyper parameters, model architecture, interpretability. |
+| 14   | Case: 3D printing, composite conductivity.<br>Introduction to sci-kit learn, other machine learning algorithms + decision tree. |
+| 15   | Case: Structure prediction, elasticity.<br>Introduction to matbench, the materials project. |
