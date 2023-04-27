@@ -23,8 +23,6 @@ This course is targeted towards students and researchers from the following fiel
 | 5   | Deep dive into data, training and validation, activation function selection + more on optimizers.<br>Numpy splicing, comprehension, masking techniques. |
 | 6   | Batch vs. mini-batch vs. stochastic gradient descent + vectorized implementation of NN.<br>More python modules: pandas,  matplotlib. |
 | 7   | First NN model using tensorflow: deep dive into data. |
-| 8   | First NN model using tensorflow: training and visualization.
-Bias and variance. |
+| 8   | First NN model using tensorflow: training and visualization.<br>Bias and variance. |
 | 9   | Understanding regularization.<br>Handling bias and variance. |
-| 9   | Understanding regularization.
-<br>Handling bias and variance. |
+| 10   | Introduction to deepchem, data featurization, SMILES, molecular fingerprints.<br>Working with molecular data. |
