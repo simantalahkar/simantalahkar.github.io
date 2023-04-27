@@ -16,6 +16,6 @@ This course is targeted towards students and researchers from the following fiel
 
 | Day # | Learning Objectives                                                             |
 | ----- | ------------------------------------------------------------ |
-| 1   | Description of the item in the list <br>description in the second line                      |
+| 1   | * Description of the item in the list <br>* description in the second line                      |
 | 2   | Description of the item in the list                          |
 | 3   | Description of the item in the list                          |
