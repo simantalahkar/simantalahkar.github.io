@@ -12,5 +12,8 @@ main:
   - title: "Awards"
     url: /awards/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Contact"
     url: /contact/
