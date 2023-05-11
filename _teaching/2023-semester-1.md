@@ -2,7 +2,7 @@
 title: "Deep Learning for Mechanical, Molecular and Materials Engineering with hands-on TensorFlow in Python"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2023-summer-teaching
+permalink: /teaching/2023-semester-1
 venue: "Indian Institute of Technology - Gandhinagar, Materials Engineering"
 date: 2023-08-01
 location: "Gandhinagar, India"
