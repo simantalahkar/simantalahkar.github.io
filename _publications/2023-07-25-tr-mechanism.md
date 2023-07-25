@@ -1,0 +1,14 @@
+---
+title: "Competing mechanisms govern the thermal rectification behavior in semi-stochastic polycrystalline graphene with graded grain-density distribution"
+collection: publications
+permalink: /publication/2023-07-25-tr-mechanism
+excerpt: "<br/><br/>Recommended citation: Lahkar S, Ranganathan R. Competing mechanisms govern the thermal rectification behavior in semi-stochastic polycrystalline graphene with graded grain-density distribution. arXiv preprint, arXiv:2307.12940 (2023). <br/>DOI: https://doi.org/10.48550/arXiv.2307.12940"
+venue: "arXiv preprint"
+date: 2023-07-25
+---
+
+<a href="https://doi.org/10.48550/arXiv.2307.12940">Find the full article here</a>. I would also be happy to send a copy and supplementary materials upon request.
+
+**Abstract**: Thermal rectifiers are devices that have different thermal conductivities in opposing directions of heat flow. The realization of practical thermal rectifiers relies significantly on a sound understanding of the underlying mechanisms of asymmetric heat transport, and two-dimensional materials offer a promising opportunity in this regard owing to their simplistic structures together with a vast possibility of tunable imperfections. However, the in-plane thermal rectification mechanisms in 2D materials like graphene having directional gradients of grain sizes have remained elusive. In fact, understanding the heat transport mechanisms in polycrystalline graphene, which are more practical to synthesize than large-scale single-crystal graphene, could potentially allow a unique opportunity to combine with other defects and designs for effective optimization of the thermal rectification property. In this work, we investigated the thermal rectification behavior in periodic atomistic models of polycrystalline graphene whose grain arrangements were generated semi-stochastically in order to have different gradient grain-density distributions along the in-plane heat flow direction. We employed the centroid Voronoi tessellation technique to generate realistic grain boundary structures for graphene, and the non-equilibrium molecular dynamics simulations method was used to calculate the thermal conductivities and thermal rectification values. Additionally, detailed phonon characteristics and propagating phonon spatial energy densities were analyzed based on the fluctuation-dissipation theory to elucidate the competitive interplay between two underlying mechanisms that determine the degree of asymmetric heat flow in graded polycrystalline graphene.
+
+**Recommended citation**: Lahkar S, Ranganathan R. Competing mechanisms govern the thermal rectification behavior in semi-stochastic polycrystalline graphene with graded grain-density distribution. arXiv preprint, arXiv:2307.12940 (2023). https://doi.org/10.48550/arXiv.2307.12940
