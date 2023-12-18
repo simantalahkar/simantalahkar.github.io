@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-Hi! I am an [Early Career Fellow](https://iitgn.ac.in/research/early_career_fellowship) at the [Indian Institute of Technology – Gandhinagar](https://iitgn.ac.in/), India. 
+Hi! I am a Postdoc at [Eindhoven University of Technology](https://www.tue.nl/en/) working on atomistic and device modeling and simulations to develop novel phase-change materials based electronics as part of the EU-funded [PHASTRAC](https://phastrac.eu/) project. 
+Prior to this I was an [Early Career Fellow](https://iitgn.ac.in/research/early_career_fellowship) at the [Indian Institute of Technology – Gandhinagar](https://iitgn.ac.in/), India. 
 I completed my Ph.D. in Materials Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China, in 2022. 
 Through a Dual Degree program, I received my M.Sc. (Physics) and B.E. (Mechanical Engineering) from [BITS Pilani](https://bits-pilani.ac.in/), India, in 2018. 
 
