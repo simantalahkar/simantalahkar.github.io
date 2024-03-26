@@ -1,6 +1,6 @@
 ---
 title: "Graded polycrystalline graphene as Thermal Diodes"
-excerpt: "Atomistic modeling, non-equilibrium heat transfer simulations and phonon calculations reveal Competitive interplay between two thermal rectification mechanisms  <br/><img src='/images/research-1.png'>"
+excerpt: "Atomistic modeling, non-equilibrium heat transfer simulations and phonon calculations reveal Competitive interplay between two thermal rectification mechanisms  <br/><img src='/images/research-1.jpg'>"
 collection: research
 ---
 
