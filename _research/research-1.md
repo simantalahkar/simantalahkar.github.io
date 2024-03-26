@@ -1,8 +1,7 @@
 ---
-title: "Anisotropic Failure Criteria"
-excerpt: "Anisotropic failure models were developed using new framework useful for accurate error estimation versus test data <br/><img src='/images/research-1.png'>"
+title: "Graded polycrystalline graphene as Thermal Diodes"
+excerpt: "Atomistic modeling, non-equilibrium heat transfer simulations and phonon calculations reveal Competitive interplay between two thermal rectification mechanisms  <br/><img src='/images/research-1.png'>"
 collection: research
 ---
 
-An equivalent-stress-based quantification technique was developed to determine the accuracy of prediction of a 6D failure model surface versus failure simulation data in both absolute and relative terms, significantly improving the ease and objectivity of anisotropic strength criteria optimization.
-
+I used centroidal Voronoi Tessellation algorithm to create realistic polycrystalline graphene lattice with arbitrary semi-stochastic grain size distribution, and carried out non-equilibrium molecular dynamics simulations and phonon energy mapping to reveal a practical strategy that can significantly manipulate the directional heat flow in asymmetric polycrystalline graphene sheets. This study showed for the first time that structural modifications in the sheets (2D materials) could increase thermal rectification by many folds, thus paving the way to more efficient and advanced #thermoelectric energy harvesting technologies.
