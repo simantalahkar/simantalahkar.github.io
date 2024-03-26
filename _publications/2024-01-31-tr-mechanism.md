@@ -1,10 +1,10 @@
 ---
 title: "Competing mechanisms govern the thermal rectification behavior in semi-stochastic polycrystalline graphene with graded grain-size distribution"
 collection: publications
-permalink: /publication/2023-11-22-tr-mechanism
+permalink: /publication/2024-01-31-tr-mechanism
 excerpt: "Recommended citation: Lahkar, S., Ranganathan, R., 2023, Competing mechanisms govern the thermal rectification behavior in semi-stochastic polycrystalline graphene with graded grain-size distribution. Carbon, 118638. <br/>DOI: https://doi.org/10.1016/j.carbon.2023.118638"
 venue: "Carbon"
-date: 2023-11-22
+date: 2024-01-31
 ---
 
 <a href="https://doi.org/10.1016/j.carbon.2023.118638">Find the full article here</a>. I would also be happy to send a copy and supplementary materials upon request.
