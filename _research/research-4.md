@@ -1,6 +1,6 @@
 ---
 title: "Electron energy loss spectrum analysis"
-excerpt: "Relativistic scattering based quantitative EELS data analysis technique for tilt prediction in hBN <br/><img src='/images/research-3.png'>"
+excerpt: "Relativistic scattering based quantitative EELS data analysis technique for tilt prediction in hBN <br/><img src='/images/research-4.png'>"
 collection: research
 ---
 
