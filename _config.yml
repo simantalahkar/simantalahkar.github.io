@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simanta Lahkar"
 title_separator          : "-"
 name                     : &name "Simanta Lahkar"
-description              : &description "Postdoc at TU/e @ PHASTRAC"
+description              : &description "Digital Twin Engineer at Gradyent: optimisation and simulation software in Python, and AI engineering"
 url                      : https://simantalahkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simantalahkar.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Simanta Lahkar"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at TU/e @ PHASTRAC <br/><br/>Ph.D. from SJTU<br/>M.S. & B.E. from BITS Pilani"
-  location         : "Eindhoven, NL"
+  bio              : "Digital Twin Engineer at Gradyent<br/><br/>Optimisation and simulation software in Python, and AI engineering<br/><br/>PhD, Shanghai Jiao Tong University<br/>MSc and BE, BITS Pilani"
+  location         : "Den Bosch, NL"
   employer         : #"Indian Institute of Technology - GN"
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=xveNT3cAAAAJ&hl=en"

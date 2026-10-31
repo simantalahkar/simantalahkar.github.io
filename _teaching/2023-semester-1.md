@@ -8,7 +8,7 @@ date: 2023-08-01
 location: "Gandhinagar, India"
 ---
 
-Lead Instructor for the course covering key topics in scientific machine learning focusing on neural networks. 
+I designed and taught this 10-day hands-on graduate course as the sole instructor, for 22 graduate students from different fields. It covered key topics in scientific machine learning, focusing on neural networks.
 
 This course is targeted towards students (who completed MA 103 course or equivalent) and researchers from the following fields: Mechanical, Materials, Chemical, Biological, Physics, Chemistry. Example problems from the fields of mechanical, molecular, and materials engineering are included to illustrate the practical applications of the technique. Understanding of basic linear algebra is a pre-requisite. Theoretical lectures are accompanied by intensive hands-on sessions for exercises and python tutorials. Prior familiarity with some programming, though desirable, is not assumed. The aim of the course is to provide the basic understanding to researchers and engineers in using deep learning effectively in various scientific problems, and to familiarize them with using tensorflow, a popular open source tool for deep learning, which will help them get a head-start in using the technology for their future work and research.
 

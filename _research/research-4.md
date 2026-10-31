@@ -1,9 +1,7 @@
 ---
-title: "Electron energy loss spectrum analysis"
-excerpt: "Relativistic scattering based quantitative EELS data analysis technique for tilt prediction in hBN <br/><img src='/images/research-4.png'>"
+title: "Electron energy-loss spectrum analysis"
+excerpt: "Tilt-series EELS of multilayer hBN compared with theory <br/><img src='/images/research-4.png'>"
 collection: research
 ---
 
-The relativistic scattering based core-loss EELS theoretical framework was validated for hBN by detailed comparison between theoretical calculations and experimental analysis.
-A novel analysis strategy for experimental data was introduced to calculate relative π and σ peak intensities showing good theoretical agreement.
-High correlation between experimentally calculated and theoretically predicted tilt-variation of B-K edge was observed. Based on this, a novel technique for topological characterization of hBN nano-structures was introduced.
+I ran tilt-series EELS experiments on multilayer hBN in a Cs-corrected TEM and wrote a Python (SciPy) analysis script, applied across the spectrum files, that extracts the relative π and σ peak weights of the boron and nitrogen K-edges; the measured weights tracked theory with correlation coefficients of about 0.96 and 0.97 ([Scripta Materialia, 2021](https://doi.org/10.1016/j.scriptamat.2021.114160)).

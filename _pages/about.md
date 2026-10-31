@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+I build optimisation and simulation software in Python, and agentic AI tooling that has helped engineering teams work more efficiently.
 
-Hello, and welcome to my home on the Web. I am a Postdoc at [Eindhoven University of Technology](https://www.tue.nl/en/) Leading the collaborative efforts to understand the material properties & physics of novel devices with IBM Research as part of the EU-funded [PHASTRAC](https://phastrac.eu/) project. 
-Prior to this I was an [Early Career Fellow](https://iitgn.ac.in/research/early_career_fellowship) at the [Indian Institute of Technology – Gandhinagar](https://iitgn.ac.in/), India. 
-I completed my Ph.D. in Materials Science and Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China, in 2022. 
-Through a Dual Degree program, I received my M.Sc. (Physics) and B.E. (Mechanical Engineering) from [BITS Pilani](https://bits-pilani.ac.in/), India, in 2018. 
+Since December 2025 I have been a Digital Twin Engineer at Gradyent, whose digital-twin platform recommends the optimal operation of industrial and district-heating networks. I work on its optimisation software and build AI tooling. In this role, I helped deliver over 3x faster compute and ~97% lower peak memory for a live optimisation service, and built a multi-agent development harness that most of the development team now uses as its standard way of working.
 
-My expertise lies in computational modeling, chemical vapor deposition (CVD), and experimental materials characterization techniques along with data analysis. I like to use these tools to research and solve different mathematical, scientific, and engineering problems that are often multi-disciplinary. 
+I come from a background in data-driven modelling and simulation of complex physical systems: a PhD in computational materials science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), then research in computational techniques at [IIT Gandhinagar](https://iitgn.ac.in/) and [TU Eindhoven](https://www.tue.nl/en/). At TU Eindhoven I worked with IBM Research in an EU consortium project, led its device modelling and simulation work package and released open-source scientific software.
 
-The [Research](https://simantalahkar.github.io/research/) page on this site contains summaries of some of my selected research work. You may find details of my conference talks and seminars on the [Talks](https://simantalahkar.github.io/talks/) page. I have also shared highlights of my select peer-reviewed [Publications](https://simantalahkar.github.io/publications/), the [Awards](https://simantalahkar.github.io/awards/) and recognitions that I received, some of my [Teaching](https://simantalahkar.github.io/teaching/) activities, and my current [Contact](https://simantalahkar.github.io/contact/) details on this website. 
+On this site you will find my [experience](/cv/), selected [research](/research/), [publications](/publications/), [talks](/talks/), [teaching](/teaching/), [awards](/awards/) and [contact details](/contact/). My open-source code is on [GitHub](https://github.com/simantalahkar).
 
-I love to keep learning new concepts and implementing new ideas in codes. I share some of the codes from my projects every now and then on my [GitHub](https://github.com/simantalahkar).
+Outside work, I enjoy swimming and going to the gym.

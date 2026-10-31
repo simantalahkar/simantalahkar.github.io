@@ -1,8 +1,7 @@
 ---
-title: "Anisotropic Failure Criteria"
-excerpt: "Anisotropic failure models were developed using new framework useful for accurate error estimation versus test data <br/><img src='/images/research-2.png'>"
+title: "Anisotropic failure criteria"
+excerpt: "A calibrated anisotropic failure criterion for hBN, with stress-space measures of its accuracy <br/><img src='/images/research-2.png'>"
 collection: research
 ---
 
-An equivalent-stress-based quantification technique was developed to determine the accuracy of prediction of a 6D failure model surface versus failure simulation data in both absolute and relative terms, significantly improving the ease and objectivity of anisotropic strength criteria optimization.
-
+I calibrated an anisotropic (Tsai-Wu) failure criterion for multilayer hBN from over 35 molecular-dynamics failure points, with stress-space accuracy measures I derived: a mean percent offset of −1.43% (SD 5.5%) from the fitted surface, against 23.3% and 25.12% for the Hill and maximum-stress criteria ([Mechanics of Materials, 2022](https://doi.org/10.1016/j.mechmat.2022.104345), front cover).
