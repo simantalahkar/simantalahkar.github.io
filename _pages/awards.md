@@ -1,14 +1,14 @@
 ---
 permalink: /awards/
 title: "Awards"
-excerpt: "Awards & Recognition"
+excerpt: "Awards and recognition"
 ---
-The following is a list of different awards, fellowships, and recognition that I received: 
+Awards, fellowships and recognition I have received:
 
-* _Early Career Fellowship_ by Indian Institute of Technology, Gandhinagar (2022).
-* _Outstanding Graduate Award_ by Shanghai Jiao Tong University, China (2022).
-* _Best Oral Presentation_ by ICEFA2022, Elsevier (2022).
-* _Featured on the Front Cover_ of Mechanics of Materials Journal (2022).
-* _CSC Doctoral Scholarship_ by The Chinese Scholarship Council (2018).
-* _MCM Scholarship_ by BITS Pilani, India (2013-2018).
-
+* Awarded a Marie Skłodowska-Curie Actions fellowship, 2023 call (host: CATRIN, Olomouc, Czech Republic; not taken up)
+* Early Career Research Fellowship, IIT Gandhinagar, 2022–2023 (competitively awarded; independent research project)
+* Best Presentation Award, International Conference on Engineering Failure Analysis (ICEFA) 2022, for a talk on simulation-based optimisation strategies
+* Outstanding Graduate award, Shanghai Jiao Tong University (PhD)
+* Front-cover feature, Mechanics of Materials, 2022
+* CSC Doctoral Scholarship (Grade A), 2018
+* University Merit cum Means Scholarship, BITS Pilani, 2013–2018

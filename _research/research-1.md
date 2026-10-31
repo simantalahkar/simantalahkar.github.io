@@ -1,7 +1,9 @@
 ---
-title: "Graded polycrystalline graphene as Thermal Diodes"
-excerpt: "Atomistic modeling, non-equilibrium heat transfer simulations and phonon calculations reveal Competitive interplay between two thermal rectification mechanisms  <br/><img src='/images/research-1.jpg'>"
+title: "Graded polycrystalline graphene as thermal diodes"
+excerpt: "Molecular-dynamics heat-transport and phonon simulations identify the competing mechanisms behind thermal rectification in graded polycrystalline graphene <br/><img src='/images/research-1.jpg'>"
 collection: research
 ---
 
-I used centroidal Voronoi Tessellation algorithm to create realistic polycrystalline graphene lattice with arbitrary semi-stochastic grain size distribution, and carried out non-equilibrium molecular dynamics simulations and phonon energy mapping to reveal a practical strategy that can significantly manipulate the directional heat flow in asymmetric polycrystalline graphene sheets. This study showed for the first time that structural modifications in the sheets (2D materials) could increase thermal rectification by many folds, thus paving the way to more efficient and advanced #thermoelectric energy harvesting technologies.
+I built a Python package, on top of an open-source graphene toolkit and its C routines, that generates polycrystalline graphene and hBN structures from arbitrary grain seeds and graded grain-size distributions (Voronoi tessellation with Lloyd relaxation).
+With it, I ran molecular-dynamics heat-transport and phonon simulations of graded polycrystalline graphene with up to ~1.04M atoms and wrote the Python analysis, identifying the competing mechanisms behind its thermal rectification ([Carbon, 2024](https://doi.org/10.1016/j.carbon.2023.118638)).
+The scripts and data are public on [GitHub](https://github.com/simantalahkar/poly-tr-mechanism).
