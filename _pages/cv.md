@@ -21,7 +21,7 @@ Gradyent's digital-twin platform recommends the optimal operation of industrial 
 Postdoc in an EU consortium project with IBM Research on the modelling and simulation of ReRAM devices.
 
 * Led work package 2 (device modelling and simulation) of a six-work-package EU consortium project with IBM Research, writing its reports and presenting at the project review meetings; coordinated the work of 3 researchers across TU/e and IBM Research and co-supervised a master's student.
-* Built and released [LAMMPSKit](https://github.com/simantalahkar/lammpskit), an open-source Python package (PyPI, Docker, Read the Docs) with 96% test coverage, used by ~4 researchers at TU/e and IBM Research; refactored it with GitHub Copilot prompt files and skills I built (including a red-green refactoring skill), which 2 other students in my group also used for their own tooling.
+* Built and released [LAMMPSKit](https://github.com/simantalahkar/lammpskit), an open-source Python package (PyPI, Docker, Read the Docs) with 93% test coverage, used by ~4 researchers at TU/e and IBM Research; refactored it with GitHub Copilot prompt files and skills I built (including a red-green refactoring skill), which 2 other students in my group also used for their own tooling.
 
 ## Early career fellow (modelling and simulations) · IIT Gandhinagar, India · 09/2022 – 11/2023
 
